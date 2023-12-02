@@ -1,0 +1,56 @@
+@media (max-width:1199px){
+
+.cssheight {
+    min-height:600px;
+}
+}
+
+    
+
+.color {
+    background-color: #100C46;
+}
+.color1 {
+    color: #6257FE;
+}
+.cssgrid1 {
+    min-height: 900px;
+}
+.color2 {
+    color:#100C46;
+}
+.bor {
+    border: 2px solid;
+}
+.z-0 {
+    top: 130px;
+    right: 180px;
+}
+.grp {
+    display: grid;
+    align-content: end;
+}
+.imgchang{
+     /* right: 0; */
+     top: 10%;
+}
+
+.bgc {
+/* background-color:blue; */
+
+max-height: 20%;
+}
+.font {
+    font-size: 15px;
+}
+.bg-hai{
+     background: rgba(98, 87, 254, 0.5);
+;
+}
+.bg-blue {
+    background:red;
+    
+}
+.bgcblue {
+ background-color: #6257FE;   
+}
